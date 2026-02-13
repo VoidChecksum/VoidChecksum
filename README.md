@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:161b22,100:6e40c9&height=280&section=header&text=VoidChecksum&fontSize=88&fontColor=c9d1d9&fontAlignY=33&desc=AI+Penetration+Tester+%7C+Exploit+Researcher+%7C+Bug+Bounty+Hunter&descSize=22&descAlignY=56&descColor=9da7b3&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=7c6cff&center=true&vCenter=true&multiline=true&width=1050&height=120&lines=Breaking+AI+Systems;Weaponizing+Vulnerabilities;Reverse+Engineering+Reality;Turning+Bugs+Into+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=7c6cff&center=true&vCenter=true&multiline=true&width=1050&height=120&lines=Breaking+AI+Systems;Weaponizing+Vulnerabilities;Reverse+Engineering+Reality" />
 </a>
 
 <br/>
